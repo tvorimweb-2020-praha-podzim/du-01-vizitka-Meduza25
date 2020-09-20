@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(255, 236, 212);
+    color: #80410d;
+    font-size: 25px;
+    text-align: left;
+    line-height: 1.5;
+    font-family: 'Quicksand', sans-serif;
+    padding: 30px;
+    margin: 0 auto;
+    max-width: 45em;
+}
+
+h1 {
+    color: #282425;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Lora', serif;
+}
+
+.foto-ja {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+a {
+    color: #461a00;
+}
